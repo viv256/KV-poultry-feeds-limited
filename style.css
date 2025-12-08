@@ -11,7 +11,7 @@
       rgba(0, 0, 0, 0.5) 50%,
       rgba(0, 0, 0, 0.5) 50%
     ),
-    url("/images/poultry back.webp");
+    url("images/poultry back.webp");
   background-position: center;
   background-size: cover;
   text-align: center;
